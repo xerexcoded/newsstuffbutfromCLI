@@ -9,7 +9,7 @@ pub fn default() -> MadSkin {
         g: 28,
         b: 28,
     });
-    skin.bullet = StyledChar::from_fg_char(Yellow, '⟡');
+    skin.bullet = StyledChar::from_fg_char(Green, '⟡');
     skin.set_headers_fg(Yellow);
     skin.quote_mark = StyledChar::from_fg_char(Yellow, '▐');
     skin.quote_mark.set_fg(Rgb {
