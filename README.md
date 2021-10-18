@@ -11,6 +11,7 @@ cargo build --release && cd target
 ./newsstuffbutfromCLI
 ```
 
+> set API_KEY in shell 
 ## HoW iT LookS: 👀  
 ![](s.jpg)
 
